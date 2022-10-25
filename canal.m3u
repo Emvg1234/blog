@@ -1,0 +1,11 @@
+#EXTM3U
+
+
+#EXTINF:-1 ,Canal 24 Horas
+
+https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
+
+
+#EXTINF:-1 ,France 24
+
+https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8
